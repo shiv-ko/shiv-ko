@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 # Stack
 ## Languege/Framework
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,typescript,react,next,pytorch" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,typescript,react,next,firebase,tailwind,notion,vim,,pytorch" /> <br /><br />
