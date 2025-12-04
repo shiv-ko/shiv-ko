@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiv-ko&theme=github)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiv-ko&theme=tokyonight)
 
-![Koki's GitHub stats](https://github-readme-stats-b0p1nqpwa-shivs-projects-aceed631.vercel.app/api?username=shiv-ko&show_icons=true&theme=tokyonight)
+[![Koki's GitHub stats](https://github-readme-stats-two-xi-57.vercel.app/api?username=shiv-ko&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/shiv-ko/github-readme-stats)
 
 
 
