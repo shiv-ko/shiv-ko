@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiv-ko&theme=tokyonight)
-
-[![Koki's GitHub stats](https://github-readme-stats-two-xi-57.vercel.app/api?username=shiv-ko&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/shiv-ko/github-readme-stats)
-
-
-
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiv-ko&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-two-xi-57.vercel.app/api?username=shiv-ko&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiv-ko&theme=tokyonight" />
+</p>
 
 # Stack
 ## Languege/Framework
