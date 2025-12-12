@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 ## Languege/Framework
 <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,typescript,react,next,docker,go,aws,graphql,firebase,tailwind,notion,vim,linux,pytorch" /> <br /><br />
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=shiba.shiba.jp&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
